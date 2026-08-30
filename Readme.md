@@ -1,4 +1,4 @@
-# Task 1: Cybersecurity Fundamentals
+#  Cybersecurity Fundamentals
 
 **The CIA Triad**
 * **Confidentiality:** Ensures sensitive information is accessed only by authorized individuals. This is typically enforced through encryption, multi-factor authentication, and strict access controls.
